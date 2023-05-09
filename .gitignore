@@ -1,0 +1,9 @@
+card.webp
+eng.traineddata
+*.png
+wl_data.json
+vendor
+x64
+out
+Debug
+.vs
